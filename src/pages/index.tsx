@@ -11,7 +11,7 @@ export default function Home() {
     <>
       <Head>
         <title>SURVIVE - Game Landing Page</title>
-        <meta name="description" content="Experience new social battle royale game" />
+        <meta name="description" content="Experience new Team Work survival" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

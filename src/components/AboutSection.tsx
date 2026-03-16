@@ -39,7 +39,7 @@ export default function AboutSection() {
           <div className="flex flex-col space-y-4">
             <h3 className="font-bebas text-xl tracking-widest">What is SOS?</h3>
             <h1 className="font-bebas text-4xl uppercase tracking-wider leading-tight">
-              social battle<br />royale game
+              Endless Horde<br />Survival game
             </h1>
             
             {/* Divider */}
@@ -47,9 +47,9 @@ export default function AboutSection() {
             
             {/* About game text */}
             <p className="text-base text-justify leading-relaxed">
-              Each round, you and 15 other contestants compete to
-              escape a deadly island filled with monsters. The trick is: three people can survive. Will you run
-              solo or form friendships with others to escape?<br /><br />Making the right decisions could be the
+              Each round, you and 4 other survive as long as possible to
+              escape a deadly island filled with the dead. Will you run
+              solo or work together with others to escape?<br /><br />Making the right decisions could be the
               difference between life and death.
             </p>
           </div>
@@ -88,7 +88,7 @@ export default function AboutSection() {
           <div className="flex flex-col space-y-4">
             <h3 className="font-bebas text-xl md:text-2xl tracking-widest">What is SOS?</h3>
             <h1 className="font-bebas text-4xl md:text-6xl lg:text-7xl xl:text-8xl uppercase tracking-wider leading-tight">
-              social battle<br />royale game
+              Endless Horde<br />Survival game
             </h1>
             
             {/* Divider */}
@@ -96,9 +96,9 @@ export default function AboutSection() {
             
             {/* About game text */}
             <p className="text-base md:text-lg text-justify leading-relaxed">
-              Each round, you and 15 other contestants compete to
-              escape a deadly island filled with monsters. The trick is: three people can survive. Will you run
-              solo or form friendships with others to escape?<br /><br />Making the right decisions could be the
+              Each round, you and 4 other survive as long as possible to
+              escape a deadly island filled with the dead. Will you run
+              solo or work together with others to escape?<br /><br />Making the right decisions could be the
               difference between life and death.
             </p>
           </div>

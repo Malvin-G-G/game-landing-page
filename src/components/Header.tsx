@@ -150,10 +150,10 @@ export default function Header() {
           <main className="flex-1 flex flex-col items-center justify-center text-center px-4 md:px-0">
             <div className="flex flex-col items-center space-y-4 md:space-y-5">
               <h1 className="font-bebas text-4xl md:text-6xl lg:text-7xl xl:text-8xl tracking-wider uppercase">
-                SURVIVE AT ALL COSTS
+                SURVIVE ALL ALONE
               </h1>
               <h3 className="font-bebas text-lg md:text-xl lg:text-2xl tracking-widest uppercase">
-                Experience new social battle royale game
+                Experience a Brand new Horde Survival
               </h3>
               
               {/* Buy button */}

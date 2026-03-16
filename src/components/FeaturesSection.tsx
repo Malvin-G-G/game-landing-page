@@ -9,13 +9,13 @@ export default function FeaturesSection() {
       id: 1,
       title: "SURVIVE AT ALL COSTS",
       description:
-        "You have 30 minutes to find a relic, signal for extraction, and grab one of three spots on the rescue chopper.",
+        "You have 30 minutes to find a relic, signal for extraction.",
     },
     {
       id: 2,
-      title: "CREATE ALLIES & ENEMIES",
+      title: "NO ONE LEFT BEHIND",
       description:
-        "Form alliances with other players to increase your chances of survival, or betray them to claim all the glory for yourself.",
+        "Never abandon other players to increase your chances of survival, or betray them to claim all the glory for yourself.",
     },
     {
       id: 3,
